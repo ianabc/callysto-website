@@ -3,6 +3,8 @@ title: Callysto Artificial Intelligence (AI) course
 description: This series of notebooks is designed to introduce you to the foundational concepts and techniques used in data science and artificial intelligence.
 date: 2024-03-26
 ---
+<h2>About This Course</h2>
+
 <p>As our world becomes increasingly data-driven, the ability to analyze, visualize, and draw insights from large and complex datasets is becoming an essential skill. Data science can provide you with the tools to make better decisions and solve complex problems.</p>
 
 <p>In addition, the rise of artificial intelligence and machine learning is revolutionizing the world. Understanding the principles and applications of AI is important for the future.</p>
