@@ -46,9 +46,9 @@ sections:
         - statistic: "6K+"
           description: |
             Teachers trained
-        # - statistic: "10K+"
-        #   description: |
-        #     Callysto Hub users
+        - statistic: "125+"
+          description: |
+            Number of resources
     design:
       spacing:
         padding: ['0', '0', '0', '0']
