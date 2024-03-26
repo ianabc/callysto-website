@@ -1,5 +1,5 @@
 ---
-title: Callysto Computational Thinking test student version
+title: Callysto Computational Thinking test (CCTt) student version
 description: The questions in this test are intended to measure students computational thinking skills and attitudes.
 date: 2024-03-28
 ---
