@@ -87,9 +87,8 @@ sections:
           #Upload image to `assets/media/` and reference the filename here
           image: computational_thinking.png
           button:
-            text: Access computational thinking tests
-            url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
-            target: _blank
+            text: '<a href='https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/' target='_blank'><button type="button" style="background-color:#4338ca; font-size:20px; text-align:center;">Access computational thinking tests</button></a>'
+            # url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
     # LEARNING MODULES
         - title: Learning modules
           text: We designed learning modules to __________
