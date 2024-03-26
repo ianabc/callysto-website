@@ -25,4 +25,4 @@ Students learn how to design code and debug programs that use a set of data stru
 <p>Students learn how to design, code and debug programs that use data files to store and retrieve data on secondary storage devices. Building on their knowledge of derived data structures, they learn how to use those structures to organize data for efficient file handling. As part of this process, they learn what types of problems benefit from the use of external files.</p>
 * Prerequisite: Data Structures 1
 <br>
-<h3><a href="https://github.com/callysto/curriculum-notebooks/blob/master/TechnologyStudies/ComputingScience/computing-science-10.ipynb"> Access Computing Science 10 course</a></h3>
+<h3><a href="https://github.com/callysto/curriculum-notebooks/blob/master/TechnologyStudies/ComputingScience/computing-science-10.ipynb" target="_blank"> Access Computing Science 10 course</a></h3>
