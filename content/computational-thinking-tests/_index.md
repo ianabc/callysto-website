@@ -2,7 +2,7 @@
 title: Computational thinking test
 ---
 
-<h2>What is Computational Thinking?</h2>
+<h2>What is computational thinking?</h2>
 <p>Computational thinking is the ability to solve problems by learning to think like a computer or a computer scientist. This involves analyzing a complex problem, developing possible solutions to the problem, and formatting the solutions so that they can be carried out by a computer (or a human). One example of computational thinking is baking a cake.</p>
 <p>The core components of computational are:</p>
 <ol>
