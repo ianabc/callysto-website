@@ -1,6 +1,6 @@
 ---
-title: Callysto Computational Thinking test (CCTt) student version
-description: The questions in this test are intended to measure students' computational thinking skills
+title: Callysto Computational Thinking test student version
+description: The questions in this test are intended to measure students computational thinking skills
 and attitudes.
 date: 2024-03-28
 ---
@@ -8,4 +8,4 @@ The questions in this test are intended to measure your computational thinking s
 
 The test will take approximately 45 minutes to complete.
 
-<a href="Resource_Callysto-CTt_Instrument_Student_version-1.pdf" target="_blank">Take the CCTt test</a>
+<!-- <a href="Resource_Callysto-CTt_Instrument_Student_version-1.pdf" target="_blank">Take the CCTt test</a> -->
