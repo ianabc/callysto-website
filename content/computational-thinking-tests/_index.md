@@ -12,7 +12,7 @@ title: Computational thinking test
 <li><strong>Formatting a general solution:</strong> Once the problem is broken down accordingly, take those pieces, solve them individually, and put them together logically. For baking a cake, this can mean determining the steps to make the cake batter, frosting, and decorations, and then putting the completed components together to make the cake. For example, you wouldn’t decorate the cake before you frost it.</li>
 </ol>
 <p>Although these are the core components, there are additional computational thinking concepts and approaches in the picture below.</p>
-
+<p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="Computational-Thinker_ENG_web.jpg" width="600" height="600"></p>
 Image courtesy of <a href="https://barefootcas.org.uk/" target="_blank" rel="noopener noreferrer">Barefoot Computing</a>
 
 <h2>How Can You Assess Computational Thinking?</h2>
