@@ -1,6 +1,7 @@
 ---
 title: Computing Science 10
 descriptiomn: Computing Science 10 consists of up to six 1-credit courses
+date: 2024-03-26
 ---
 
 <h3>Structured Programming 1</h3>

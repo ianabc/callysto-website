@@ -1,6 +1,7 @@
 ---
 title: Computational thinking course
 description: Introduce computational thinking into your classrooms using Jupyter Notebook technology and learning resources developed by Callysto.
+date: 2024-03-26
 ---
 <h2>About This Course</h2>
 
@@ -13,4 +14,4 @@ description: Introduce computational thinking into your classrooms using Jupyter
 <b>Requirements</b>
 <p>This is an introductory course recommended for Grade 5-12 educators with no prerequisites except a curiosity to learn.</p>
 
-<h3 style="color:#6F4A9E"><a href="https://courses.callysto.ca/courses/course-v1:Callysto+CCT101+2022-2023/about" target="_blank"> Access computational thinking course</a></h3>
+<h3 style="color:#6F4A9E"><a href="https://courses.callysto.ca/courses/course-v1:Callysto+CCT101+2022-2023/about" target="_blank"> Link: Computational thinking course</a></h3>
