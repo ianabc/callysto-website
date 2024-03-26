@@ -89,6 +89,7 @@ sections:
           button:
             text: Access computational thinking tests
             url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
+            target: blank
     # LEARNING MODULES
         - title: Learning modules
           text: We designed learning modules to __________
@@ -102,6 +103,7 @@ sections:
           button:
             text: Browse learning modules
             url: https://imuniyat.github.io/callysto.github.io/learningmodule/
+            target: blank
       # LESSON PLANS
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
@@ -192,7 +194,7 @@ sections:
     id: about
     content:
       title: '<h1 style="font-size:40px; text-align: center;">About</h1>'
-      text: '<p style="font-size:25px; text-align: center; width: 80vw;">Callysto is a free, online learning tool that helps Grades 5-12 students and teachers learn and apply in-demand data science skills including data analysis and visualization, coding, and computational thinking. <br> Our interactive learning modules are available in a variety of subjects – from math to history – and are aligned with existing curriculum. Our mission is to foster computational thinking and data literacy skills in Canadian schools. <br>The Callysto program is facilitated by the non-profit organizations Cybera and the Pacific Institute for the Mathematical Sciences. It is funded under the national CanCode program.'
+      text: '<p style="font-size:25px; text-align: center; width: 50vw;">Callysto is a free, online learning tool that helps Grades 5-12 students and teachers learn and apply in-demand data science skills including data analysis and visualization, coding, and computational thinking. <br> Our interactive learning modules are available in a variety of subjects – from math to history – and are aligned with existing curriculum. Our mission is to foster computational thinking and data literacy skills in Canadian schools. <br>The Callysto program is facilitated by the non-profit organizations Cybera and the Pacific Institute for the Mathematical Sciences. It is funded under the national CanCode program.'
     design:
       spacing:
         padding: ['40px', '0', '0', '0']
