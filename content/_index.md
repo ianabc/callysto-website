@@ -89,7 +89,7 @@ sections:
           button:
             text: Access computational thinking tests
             url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
-            target: blank
+            target: _blank
     # LEARNING MODULES
         - title: Learning modules
           text: We designed learning modules to __________
@@ -103,7 +103,6 @@ sections:
           button:
             text: Browse learning modules
             url: https://imuniyat.github.io/callysto.github.io/learningmodule/
-            target: blank
       # LESSON PLANS
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
