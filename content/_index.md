@@ -88,7 +88,7 @@ sections:
           image: computational_thinking.png
           button:
             text: Access computational thinking tests
-            url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
+            url: https://callysto.github.io/website/computational-thinking-tests/
     # LEARNING MODULES
         - title: Learning modules
           text: We designed learning modules to __________
@@ -101,7 +101,7 @@ sections:
           image: social-media.png
           button:
             text: Browse learning modules
-            url: https://imuniyat.github.io/callysto.github.io/learningmodule/
+            url: https://callysto.github.io/website/learningmodule/
       # LESSON PLANS
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
@@ -114,7 +114,7 @@ sections:
           image: CALM.png
           button:
             text: Browse lesson plans
-            url: https://imuniyat.github.io/callysto.github.io/lessonplan/
+            url: https://callysto.github.io/website/lessonplan/
       # DATA VISUALIZATIONS
         - title: Data visualizations
           text: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
@@ -128,7 +128,7 @@ sections:
           button:
             text: Check out data viz
             #url: ../assets/media/example.html
-            url: https://imuniyat.github.io/callysto.github.io/dataviz/
+            url: https://callysto.github.io/website/dataviz/
             #url: govt_funding.html
       # STARTER KIT & ONLINE COURSES
         - title: Starter kit and online courses
@@ -144,7 +144,7 @@ sections:
           image: social-media.png
           button:
             text: Browse teacher starter kit and online courses
-            url: https://imuniyat.github.io/callysto.github.io/distance-learning/
+            url: https://callysto.github.io/website/distance-learning/
       # ADDITIONAL RESOURCES  
         - title: Additional resources
           text: Additional resources
@@ -157,7 +157,7 @@ sections:
           image: data-viz.png
           button:
             text: Check out additional resources
-            url: https://imuniyat.github.io/callysto.github.io/additional-resources/
+            url: https://callysto.github.io/website/additional-resources/
       # BLOG POSTS  
         - title: Blog posts
           text: Blog
@@ -170,7 +170,7 @@ sections:
           image: data-viz.png
           button:
             text: Check out our blog posts
-            url: https://imuniyat.github.io/callysto.github.io/blog/
+            url: https://callysto.github.io/website/blog/
       # Contributions  
         - title: Contributions
           text: Contributions
@@ -183,7 +183,7 @@ sections:
           image: contributions.png
           button:
             text: See our contributors
-            url: https://imuniyat.github.io/callysto.github.io/contributions/
+            url: https://callysto.github.io/website/contributions/
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-000 dark:bg-gray-900"
