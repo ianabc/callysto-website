@@ -19,8 +19,8 @@ function myFunction() {
               }
             }       
           }
-        //   if(!isFound && tr[i].className !== "header") {
-        //     tr[i].style.display = "none";
-        //   }
+          if(!isFound && tr[i].className !== "header") {
+            tr[i].style.display = "none";
+          }
         }
     }

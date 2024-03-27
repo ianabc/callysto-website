@@ -1,7 +1,7 @@
 ---
 title: Learning Modules
 ---
-These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect. Filter learning modules by the subject areas or topic of interest, suich as:
+These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect. Filter learning modules by subject areas or topic of interest, such as:
 <ul> 
 <li>Languages</li>
 <li>Mathematics / Mathématiques</li>
@@ -11,7 +11,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 <li>English language arts</li>
 <li>Science</li>
 </ul>
-Type in the subject name in the search box below. 
+Type the subject name or topic of interest in the search box below.
 <br>
 <!-- <a href="/workspaces/callysto.github.io/content/post/content_1.md" target="_blank">Test md</a> -->
 
@@ -21,7 +21,7 @@ Type in the subject name in the search box below.
 
 <script src="table.js"></script>
 
-<input type="text" id="myInput" style="background:#6F4A9E;color:white;border-radius:10px;padding:20px;width:50vw;" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
+<input type="text" id="myInput" style="background:#6F4A9E;color:white;border-radius:10px;padding:15px;width:50vw;" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
 
 <table  id="myTable" class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Subject</th>
