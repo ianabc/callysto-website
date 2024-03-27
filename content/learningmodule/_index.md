@@ -1,7 +1,7 @@
 ---
 title: Learning Modules
 ---
-These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect. Filter learning modules by the following subject areas:
+These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect. Filter learning modules by the subject areas or topic of interest, suich as:
 <ul> 
 <li>Languages</li>
 <li>Mathematics / Mathématiques</li>
