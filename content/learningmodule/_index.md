@@ -23,7 +23,7 @@ Type in the subject name in the search box below.
 
 <script src="table.js"></script>
 
-<input class="task-text" type="text" id="myInput" style="background:#BBBBBB;color:black;width:500px;" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
+<input type="text" id="myInput" style="background:#BBBBBB;color:black;width:500px;" onkeyup="myFunction()" placeholder="Search by subject..">
 
 <table  id="myTable" class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Subject</th>
