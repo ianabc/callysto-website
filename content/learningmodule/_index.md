@@ -2,14 +2,27 @@
 title: Learning Modules
 ---
 These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
+
+Filter learning modules by the following subject areas:
+<ul> 
+<li>LANGUAGES</li>
+<li>MATHEMATICS</li>
+<li>TECHNOLOGY STUDIES</li>
+<li>SOCIAL STUDIES</li>
+<li>HEALTH</li>
+<li>ENGLISH LANGUAGE ARTS</li>
+<li>SCIENCE</li>
+</ul>
+Type in the subject name in the search boix below to filter learning modules. 
 <!-- <a href="/workspaces/callysto.github.io/content/post/content_1.md" target="_blank">Test md</a> -->
 
 <!-- <button style="background:#3630a3;color:white;"
         onclick="alert('Save processed.')">
         Save</button> -->
+
 <script src="table.js"></script>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
 
 <table  id="myTable" class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Subject</th>
