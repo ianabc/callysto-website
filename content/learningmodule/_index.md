@@ -13,7 +13,7 @@ Filter learning modules by the following subject areas:
 <li>ENGLISH LANGUAGE ARTS</li>
 <li>SCIENCE</li>
 </ul>
-Type in the subject name in the search boix below to filter learning modules. 
+Type in the subject name in the search box below. 
 <!-- <a href="/workspaces/callysto.github.io/content/post/content_1.md" target="_blank">Test md</a> -->
 
 <!-- <button style="background:#3630a3;color:white;"
