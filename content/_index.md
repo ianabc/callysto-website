@@ -91,12 +91,13 @@ sections:
             url: https://callysto.github.io/website/computational-thinking-tests/
     # LEARNING MODULES
         - title: Learning modules
-          text: We designed learning modules to __________
+          text: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect. Filter learning modules by the subject areas or topics of interest.
           feature_icon: bolt
           features:
-            - "a"
-            - "b"
-            - "c"
+            - "Languages"
+            - "Mathematics / Mathématiques"
+            - "Social studies / Etudes Sociales"
+            - "Science"
           # Upload image to `assets/media/` and reference the filename here
           image: social-media.png
           button:
