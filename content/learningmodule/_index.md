@@ -21,7 +21,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 <td>12</td>
 <td>Body Electricity</td>
 <td>Investigate the body&#39;s electrical signals while exercising and at rest using a micro:bit</td>
-<td>&lt;<a href="https://bit.ly/36CpUTI&quot" target="_blank">Click</a>&lt;/a&gt;</td>
+<td>&lt;a href="https://bit.ly/36CpUTI&quot" target="_blank">Click&lt;/a&gt;</td>
 <td>2020-11-21</td>
 </tr>
 <tr>
