@@ -21,7 +21,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 <td>12</td>
 <td>Body Electricity</td>
 <td>Investigate the body&#39;s electrical signals while exercising and at rest using a micro:bit</td>
-<td>&lt;<a href="https://bit.ly/36CpUTI" target="_blank">Click</a></td>
+<td><a href="https://bit.ly/36CpUTI" target="_blank">Click</a></td>
 <td>2020-11-21</td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 <td>5</td>
 <td>Introduction to Poetry Concepts</td>
 <td>Introduce poetry concepts such as haiku, diamante, and limerick poems</td>
-<td>&lt;a href=&quot;https://bit.ly/2GSeaz3&quot; target=&quot;_blank&quot;&gt;Click&lt;/a&gt;</td>
+<td>&lt; href="https://bit.ly/2GSeaz3" target="_blank"&gt;Click&lt;/a&gt;</td>
 <td>2020-02-04</td>
 </tr>
 <tr>
