@@ -25,19 +25,8 @@ date: 2022-10-10
 <p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/air-quality/visualizations/fig3-pie-graph.html" width="100%" height="500" scrolling="no" seamless="seamless"></iframe></p>
 <p>In the plot above, we notice that Alberta has been a huge contributor to ammonia, nitrogen oxide, sulphur oxide, and volatile organic compounds emissions over the last 30 years. Alberta alone contributed 24.7% of the total nitrogen oxide emissions per capita since 1990, followed by the province of Newfoundland and Labrador, with total emissions of 18.7%. Newfoundland and Labrador has been a major contributor to total ammonia emissions (35.1%), whereas Ontario has led in total sulphur dioxide emissions in Canada (26.3%).</p>
 <p>What do you notice in this data visualization? Are some provinces doing better than others in controlling emissions in recent years? What factors could be causing that (what additional data would you want to look at to find out why emissions are so high/low?)</p>
-</div>
-	</div>
-</div>
-</div>
-</div>
-	</div>
 
-<div class="fl-col-group fl-node-1r37juhmqc04" data-node="1r37juhmqc04">
-			<div class="fl-col fl-node-oxn3hbwczj12" data-node="oxn3hbwczj12">
-	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-z9nacp7ou3xf" data-node="z9nacp7ou3xf">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-rich-text">
-	<h2><b>Reflect on what you see</b></h2>
+<h2><b>Reflect on what you see</b></h2>
 <p>Look and interact with the data visualizations above. When you hover your mouse over the plots, you’ll notice more information appears. You can also use the legend to make plots appear and disappear.</p>
 <p><strong>Think about the following questions.</strong></p>
 <ul>

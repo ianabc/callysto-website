@@ -31,39 +31,18 @@ date: 2022-08-31
 <p>To investigate the average blood pressure, we first plotted the systolic BP readings from the NHANES data. In this interactive plot (below), you can see graphs from three independent readings (blue, red, and green) for the systolic BP from over 11,000 participants. We also plotted the averages of the three different readings for each participant in light purple.</p>
 <p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/nhanes-blood-pressure/visualizations/bp1.html" width="100%" height="800" scrolling="no" seamless="seamless"></iframe></p>
 <p>In the plot above, we notice a significant overlap between the three readings, which means they follow similar distributions. Consequently, the plot of the averages over three readings also follows a similar distribution. Normal systolic BP in adults is less than 120 mmHg, and 58% of all participants had BP within the normal range. A value higher than 120 mmHg is considered high.</p>
-</div>
-	</div>
-</div>
-<div class="fl-module fl-module-rich-text fl-node-w6oa5pel12rd" data-node="w6oa5pel12rd">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-rich-text">
-	<p>Second, we plotted three readings of diastolic blood pressures from the same participants.</p>
+
+<p>Second, we plotted three readings of diastolic blood pressures from the same participants.</p>
 <p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/nhanes-blood-pressure/visualizations/bp2.html" width="100%" height="800" scrolling="no" seamless="seamless"></iframe></p>
 <p>In the plot above, we notice that most of the participants (~ 78%) have diastolic blood pressure within the normal range (&lt; 80 mmHg).</p>
 <p>When the resting value for the systolic blood pressure is above 135 mmHg, or the diastolic blood pressure is above 85 mmHg, it indicates the presence of a condition called hypertension. This can put one at risk of several serious health problems, including heart attack and stroke.</p>
-</div>
-	</div>
-</div>
-<div class="fl-module fl-module-rich-text fl-node-u3prygcxzs47" data-node="u3prygcxzs47">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-rich-text">
-	<p>Finally, we plotted heart rates from three independent readings from the participants. The typical resting heart rate for an adolescent can be anywhere between 60 and 100 bpm, as shown by the transparent gray rectangle.</p>
-<p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="./Blood pressure and heart rate in humans – Callysto_files/hr1.html" width="100%" height="800" scrolling="no" seamless="seamless"></iframe></p>
+
+<p>Finally, we plotted heart rates from three independent readings from the participants. The typical resting heart rate for an adolescent can be anywhere between 60 and 100 bpm, as shown by the transparent gray rectangle.</p>
+<p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/nhanes-blood-pressure/visualizations/hr1.html" width="100%" height="800" scrolling="no" seamless="seamless"></iframe></p>
 <p>As you can see from the plots above, blood pressure and heart rate data follow a "normal" distribution, where it is bell-shaped and symmetric around the mean. The vast majority of participants have measurements clustered around the mean of all measurements. The number of people with BP values higher or lower than the mean quickly drops off as you go further from the mean. There are significant outliers in both directions, but that's an inevitability in any biological dataset.</p>
 <p>What do you notice in this data visualization? Is there a noticeable difference between the three measurements of blood pressure? Why might that exist (or not exist)? Given the shape of the histogram, would you say most participants in this dataset have healthy blood pressure? Do the subsequent measurements of heart rate differ? Why or why not?</p>
-</div>
-	</div>
-</div>
-</div>
-</div>
-	</div>
 
-<div class="fl-col-group fl-node-aco3f2p48uxy" data-node="aco3f2p48uxy">
-			<div class="fl-col fl-node-0fdbly51szh4" data-node="0fdbly51szh4">
-	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-9obf5hz2pmjy" data-node="9obf5hz2pmjy">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-rich-text">
-	<h2><b>Reflect on what you see</b></h2>
+<h2><b>Reflect on what you see</b></h2>
 <p>Look and interact with the data visualizations above. When you hover your mouse over the plots, you’ll notice that more information appears. You can also use the legend to make plots appear and disappear.</p>
 <p><strong>Think about the following questions.</strong></p>
 <ul>
@@ -82,13 +61,3 @@ date: 2022-08-31
 <p>Go to our <a href="https://bit.ly/3R9BjQl">walk-through</a> (in Jupyter notebook format) to see how the data science process was applied to create these graphs, from formulating a question, to gathering the data, and analyzing the data with code.</p>
 <p>In the Jupyter notebook, you can enter your own heart rate to see how your resting and elevated heart rates compare to the data. Can you think of any reason why they might not fall in the center of the plot?</p>
 <p>Perform a quick exercise for 30 seconds or so, like jumping jacks or pushups and answer these questions: How does exercise change your heart rate? Is it still within the normal range?</p>
-</div>
-	</div>
-</div>
-</div>
-</div>
-	</div>
-		</div>
-	</div>
-</div>
-</div>
