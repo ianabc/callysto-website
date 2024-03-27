@@ -24,3 +24,14 @@ function myFunction() {
           }
         }
     }
+
+.task-text {
+    padding: 5px;
+    outline: none;
+    border: none;
+    box-shadow: inset 0 0 0 5px red;
+    }
+    
+    .task-text:hover {
+    box-shadow: inset 0 0 0 2px red;
+    }

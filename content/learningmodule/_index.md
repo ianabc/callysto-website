@@ -16,6 +16,7 @@ Filter learning modules by the following subject areas:
 <li>SCIENCE</li>
 </ul>
 Type in the subject name in the search box below. 
+<br>
 <!-- <a href="/workspaces/callysto.github.io/content/post/content_1.md" target="_blank">Test md</a> -->
 
 <!-- <button style="background:#3630a3;color:white;"
@@ -24,7 +25,7 @@ Type in the subject name in the search box below.
 
 <script src="table.js"></script>
 
-<input type="text" id="myInput" border="1px solid #000" width="200px" padding="20px" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
+<input class="task-text" type="text" id="myInput" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
 
 <table  id="myTable" class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Subject</th>
