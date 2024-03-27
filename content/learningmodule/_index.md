@@ -5,15 +5,15 @@ These pre-made, introductory data science lessons are a way for students to deve
 
 Filter learning modules by the following subject areas:
 <ul> 
-<li>LANGUAGES</li>
-<li>MATHEMATICS</li>
-<li>TECHNOLOGY STUDIES</li>
+<li>Languages</li>
+<li>Mathematics</li>
+<li>Technology studies</li>
 <li>Technologie</li>
-<li>SOCIAL STUDIES</li>
+<li>Social studies</li>
 <li>Etudes Sociales</li>
 <li>HEALTH</li>
-<li>ENGLISH LANGUAGE ARTS</li>
-<li>SCIENCE</li>
+<li>English language arts</li>
+<li>Science</li>
 </ul>
 Type in the subject name in the search box below. 
 <br>
