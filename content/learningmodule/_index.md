@@ -26,11 +26,11 @@ Type the subject name or topic of interest in the search box below.
 <!-- <table  id="myTable" class="table table-bordered table-hover table-condensed"> -->
 <table class="sortable">
 <thead><tr><th title="Field #1">Subject</th>
-<th title="Field #2">Grade</th>
-<th title="Field #3">Title</th>
-<th title="Field #4">Description</th>
-<th title="Field #5">Link</th>
-<th title="Field #6">Date Added</th>
+<th title="Field #2" onclick="sortTable(0)">Grade</th>
+<th title="Field #3" onclick="sortTable(1)">Title</th>
+<th title="Field #4" onclick="sortTable(2)">Description</th>
+<th title="Field #5" onclick="sortTable(3)">Link</th>
+<th title="Field #6" onclick="sortTable(4)">Date Added</th>
 </tr></thead>
 <tbody><tr>
 <td>Biology</td>
@@ -873,3 +873,5 @@ Type the subject name or topic of interest in the search box below.
 <td>2023-10-26</td>
 </tr>
 </tbody></table>
+
+<script src="sort.js"></script>
