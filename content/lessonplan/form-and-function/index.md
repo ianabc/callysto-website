@@ -1,5 +1,5 @@
 ---
-title: Form and function(s): 'A sustainable design meets computation'
+title: 'Form and function(s): A sustainable design meets computation'
 date: 2024-03-26
 ---
 <p><b>Suggested grade levels: 11-12</b></p>
