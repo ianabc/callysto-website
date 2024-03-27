@@ -8,6 +8,7 @@ Filter learning modules by the following subject areas:
 <li>LANGUAGES</li>
 <li>MATHEMATICS</li>
 <li>TECHNOLOGY STUDIES</li>
+<li>Technologie</li>
 <li>SOCIAL STUDIES</li>
 <li>HEALTH</li>
 <li>ENGLISH LANGUAGE ARTS</li>
