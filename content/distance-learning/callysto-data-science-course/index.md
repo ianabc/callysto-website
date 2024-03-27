@@ -3,8 +3,6 @@ title: Callysto data science course
 description: Introduce computational thinking into your classrooms using Jupyter Notebook technology and learning resources developed by Callysto.
 date: 2024-03-26
 ---
-<h2>About This Course</h2>
-
 <p>Data science skills, including computational thinking (problem solving) and data analysis, are becoming important for students to learn in order to be competitive in the workforce.</p>
 
 <p>This course provides you the tools to bring data science literacy into your Grades 5-12 classroom(s) across all subject areas. You don’t need to be a computer programmer to enroll.</p>
