@@ -23,7 +23,8 @@ Type the subject name or topic of interest in the search box below.
 
 <input type="text" id="myInput" style="background:#6F4A9E;color:white;border-radius:10px;padding:15px;width:60vw;" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
 
-<table  id="myTable" class="table table-bordered table-hover table-condensed">
+<!-- <table  id="myTable" class="table table-bordered table-hover table-condensed"> -->
+<table class="sortable">
 <thead><tr><th title="Field #1">Subject</th>
 <th title="Field #2">Grade</th>
 <th title="Field #3">Title</th>
