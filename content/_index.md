@@ -97,7 +97,7 @@ sections:
             - "Languages"
             - "Mathematics / Mathématiques"
             - "Social studies / Etudes Sociales"
-            - "Science"
+            - "Science and more"
           # Upload image to `assets/media/` and reference the filename here
           image: social-media.png
           button:
