@@ -20,17 +20,17 @@ Type the subject name or topic of interest in the search box below.
         Save</button> -->
 
 <script src="table.js"></script>
-<script src="sort.js"></script>
+
 <input type="text" id="myInput" style="background:#6F4A9E;color:white;border-radius:10px;padding:15px;width:60vw;" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
 
 <!-- <table  id="myTable" class="table table-bordered table-hover table-condensed"> -->
 <table class="sortable">
 <thead><tr><th title="Field #1">Subject</th>
-<th title="Field #2" onclick="sortTable(0)">Grade</th>
-<th title="Field #3" onclick="sortTable(1)">Title</th>
-<th title="Field #4" onclick="sortTable(2)">Description</th>
-<th title="Field #5" onclick="sortTable(3)">Link</th>
-<th title="Field #6" onclick="sortTable(4)">Date Added</th>
+<th title="Field #2">Grade</th>
+<th title="Field #3">Title</th>
+<th title="Field #4">Description</th>
+<th title="Field #5">Link</th>
+<th title="Field #6">Date Added</th>
 </tr></thead>
 <tbody><tr>
 <td>Biology</td>
