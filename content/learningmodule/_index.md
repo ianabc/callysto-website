@@ -7,6 +7,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 <!-- <button style="background:#3630a3;color:white;"
         onclick="alert('Save processed.')">
         Save</button> -->
+<script src="table.js"></script>
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Subject</th>
