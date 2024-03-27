@@ -10,6 +10,7 @@ Filter learning modules by the following subject areas:
 <li>TECHNOLOGY STUDIES</li>
 <li>Technologie</li>
 <li>SOCIAL STUDIES</li>
+<li>Etudes Sociales</li>
 <li>HEALTH</li>
 <li>ENGLISH LANGUAGE ARTS</li>
 <li>SCIENCE</li>
@@ -23,7 +24,7 @@ Type in the subject name in the search box below.
 
 <script src="table.js"></script>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
+<input type="text" id="myInput" border="1px solid #000" width="200px" padding="20px" onkeyup="myFunction()" placeholder="Search by subject.." title="Type in a name">
 
 <table  id="myTable" class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Subject</th>
