@@ -9,7 +9,9 @@ These pre-made, introductory data science lessons are a way for students to deve
         Save</button> -->
 <script src="table.js"></script>
 
-<table class="table table-bordered table-hover table-condensed">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+
+<table  id="myTable" class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Subject</th>
 <th title="Field #2">Grade</th>
 <th title="Field #3">Title</th>
