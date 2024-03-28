@@ -3,65 +3,65 @@ title: Contributions
 ---
 We would like to express our sincere gratitude to everyone who contributed to the Callysto project. Their collective efforts have been instrumental in have been essential in reaching the project's goals.
 
-<b>Dr. Byron Chu</b>
+<b>Dr. Byron Chu</b><br>
 Callysto Project Manager
 Data Scientist, Cybera
 
-<b>Dr. Cathy Adams</b>
+<b>Dr. Cathy Adams</b><br>
 Department of Secondary Education, Computing Science Education, Faculty of Education, University of Alberta
 
-<b>Dr. Ian Allison</b>
+<b>Dr. Ian Allison</b><br>
 Systems and Network Manager, PIMS
 
-<b>Professor James Colliander</b>
+<b>Professor James Colliander</b><br>
 Director, PIMS
 
-<b>Ozgur Yilmaz</b>
+<b>Ozgur Yilmaz</b><br>
 Director, PIMS
 
-<b>Elmar Bouwer</b>
+<b>Elmar Bouwer</b><br>
 Project Manager
 
-<b>Maria Cutumisu</b>
+<b>Maria Cutumisu</b><br>
 Callysto Research Assessment Team Lead
 
-<b>Meagan Hampel</b>
+<b>Meagan Hampel</b><br>
 Communications Director, Cybera
 
-<b>Laura Hutchinson</b>
+<b>Laura Hutchinson</b><br>
 Communications & Design Specialist (Cybera)
 
-<b>Professor Michael Lamoureux</b>
+<b>Professor Michael Lamoureux</b><br>
 Innovation Coordinator, PIMS, Callysto Ambassador for B.C.
 
-<b>David Hay</b>
+<b>David Hay</b><br>
 Learning & Development Manager, Callysto Ambassador for Alberta
 
-<b>Laura Gutierrez-Funderburk</b>
+<b>Laura Gutierrez-Funderburk</b><br>
 Data Scientist
 
-<b>Dr. Verena Roberts</b>
+<b>Dr. Verena Roberts</b><br>
 Education Specialist
 
-<b>Lisa Cao</b>
+<b>Lisa Cao</b><br>
 Data Science Intern
 
-<b>Tina Leard</b>
+<b>Tina Leard</b><br>
 Education Specialist 
 
-<b>Alyaa Mohamed</b>
+<b>Alyaa Mohamed</b><br>
 Data Science Intern
 
-<b>Bryce Haley</b>
+<b>Bryce Haley</b><br>
 Data Science Intern
 
-<b>Casey Knoll</b>
+<b>Casey Knoll</b><br>
 Communications Specialist
 
-<b>Ishruna Muniyat</b>
+<b>Ishruna Muniyat</b><br>
 Communications Specialist
 
-<b>Mary Grant</b>
+<b>Mary Grant</b><br>
 Education Specialist
 
 <b>Rania Mahdi</b>
