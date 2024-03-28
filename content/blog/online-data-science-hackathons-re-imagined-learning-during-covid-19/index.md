@@ -2,7 +2,7 @@
 title: 'Online data science hackathons: Re-imagined learning during COVID-19'
 date: 2020-11-25
 ---
-h2><span style="color: #993366;">How the re-imagining began</span></h2>
+<h2><span style="color: #993366;">How the re-imagining began</span></h2>
 <p>The COVID-19 pandemic caused a seemingly overnight shift to online learning for many students and teachers across Canada. We also experienced this shift at Callysto.</p>
 <p>For us, this shift meant pivoting in-person data science hackathons (geared towards Grades 9-12 students) to an online format. In our data science hackathons, students solve a problem by “hacking” or analyzing open, freely available data.</p>
 <p>Running online hackathons helped us learn how to structure our content for remote learning. We also wanted to provide a free, virtual learning experience that would support teachers and students with developing data science skills – coding, data analysis, and computational thinking.</p>
