@@ -1,7 +1,7 @@
 ---
 title: Contributions
 ---
-We would like to express our sincere gratitude to everyone who contributed to the Callysto project. Their collective efforts have been instrumental in have been essential in reaching the project's goals.
+We would like to express our sincere gratitude to everyone who contributed to the Callysto project. Their collective efforts have been instrumental in reaching the project's goals.
 
 <b>Dr. Byron Chu</b><br>
 Callysto Project Manager
@@ -67,20 +67,20 @@ Communications Specialist
 <b>Mary Grant</b><br>
 Education Specialist
 
-<b>Rania Mahdi</b>
+<b>Rania Mahdi</b><br>
 Education Specialist Intern
 
-<b>Jordan Swanson</b>
+<b>Jordan Swanson</b><br>
 Data Science Intern
 
-<b>Jenny Lee</b>
+<b>Jenny Lee</b><br>
 Data Science Intern
 
-<b>Bobbi Belsek</b>
+<b>Bobbi Belsek</b><br>
 Education Specialist
 
-<b>Ayush Chaudhari</b>
+<b>Ayush Chaudhari</b><br>
 Data Science Intern
 
-<b>Eric Lee</b>
+<b>Eric Lee</b><br>
 Data Science Intern
