@@ -174,7 +174,7 @@ sections:
             url: https://callysto.github.io/website/blog/
       # Contributions  
         - title: Contributions
-          text: Contributions
+          text: We would like to express our sincere thanks to everyone who contributed to the Callysto project. 
           #feature_icon: check
           #features:
           #  - "Future-proof - edit your content in text files"
@@ -183,7 +183,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: contributions.png
           button:
-            text: See our contributors
+            text: Meet our contributors
             url: https://callysto.github.io/website/contributions/
     design:
       # Section background color (CSS class)
