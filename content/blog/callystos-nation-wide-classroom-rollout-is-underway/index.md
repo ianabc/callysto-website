@@ -23,9 +23,7 @@ date: 2019-10-07
 <h2 class="wp-block-heading">How Callysto is Used in the Classroom</h2>
 
 
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="http://bit.ly/call-salish-baskets"><img decoding="async" width="329" height="350" src="Indigenous-basket-weaving-2-models.png" alt="" class="wp-image-3872" srcset="Indigenous-basket-weaving-2-models.png 329w, Indigenous-basket-weaving-2-models-282x300.png 282w" sizes="(max-width: 329px) 100vw, 329px"></a></figure></div>
-
+<a href="http://bit.ly/call-salish-baskets"><p><img loading="lazy" decoding="async" class="size-large aligncenter" src="Indigenous-basket-weaving-2-models.png" width="800" height="550"></p></a>
 
 
 <p>Working with educators, Cybera and PIMS have so far developed over 100 different learning module “notebooks” to complement existing Canadian curricula.</p>
