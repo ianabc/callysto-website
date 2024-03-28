@@ -24,7 +24,7 @@ date: 2019-10-07
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large"><a href="http://bit.ly/call-salish-baskets"><img decoding="async" width="329" height="350" src="Indigenous-basket-weaving-2-models.png" alt="" class="wp-image-3872" srcset="Indigenous-basket-weaving-2-models.png 329w, Indigenous-basket-weaving-2-models-282x300.png 282w" sizes="(max-width: 329px) 100vw, 329px"></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="http://bit.ly/call-salish-baskets"><img decoding="async" width="329" height="350" src="Indigenous-basket-weaving-2-models.png" alt="" class="wp-image-3872" srcset="Indigenous-basket-weaving-2-models.png 329w, Indigenous-basket-weaving-2-models-282x300.png 282w" sizes="(max-width: 329px) 100vw, 329px"></a></figure></div>
 
 
 
