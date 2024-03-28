@@ -42,7 +42,7 @@ date: 2022-04-29
 
 
 
-<p>Over 3,300 Canadian teachers have been trained on Callysto to date. Lara Winstone, a teacher from Sentinel Secondary School in Vancouver, British Columbia, began using the tool with her Grade 11 IT class in 2021. Her students used the Callysto notebooks to explore&nbsp;<a href="https://www.callysto.ca/wp-content/uploads/2020/10/Callysto-Lesson-on-COVID-19-Data-Science.pdf">Covid-19 outbreak models</a>, as well as learn about complex ethical concepts through a&nbsp;<a href="https://www.callysto.ca/wp-content/uploads/2020/10/unfair-dice-simulation.pdf">“rigged dice” game</a>.</p>
+<p>Over 3,300 Canadian teachers have been trained on Callysto to date. Lara Winstone, a teacher from Sentinel Secondary School in Vancouver, British Columbia, began using the tool with her Grade 11 IT class in 2021. Her students used the Callysto notebooks to explore&nbsp;<a href="Callysto-Lesson-on-COVID-19-Data-Science.pdf">Covid-19 outbreak models</a>, as well as learn about complex ethical concepts through a&nbsp;<a href="unfair-dice-simulation.pdf">“rigged dice” game</a>.</p>
 
 
 
