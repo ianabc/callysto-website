@@ -10,7 +10,7 @@ date: 2019-10-07
 
 
 
-<h2 class="wp-block-heading">What Callysto Offers Classrooms</h2>
+<h2 class="wp-block-heading">What Callysto offers classrooms</h2>
 
 <p>“Callysto enhances the learning experience by adding interactive or analytical elements to a basic lesson, helping students go beyond the textbook and actually play with the data,” says Barb Carra, President and CEO of Cybera. “This not only makes the lesson more interesting, but also develops the students’ digital literacy and computational thinking skills.”</p>
 
@@ -20,7 +20,7 @@ date: 2019-10-07
 
 
 
-<h2 class="wp-block-heading">How Callysto is Used in the Classroom</h2>
+<h2 class="wp-block-heading">How Callysto is used in the classroom</h2>
 
 
 <a href="http://bit.ly/call-salish-baskets"><p><img loading="lazy" decoding="async" class="size-large aligncenter" src="Indigenous-basket-weaving-2-models.png" width="800" height="550"></p></a>
@@ -42,7 +42,7 @@ date: 2019-10-07
 
 
 
-<h2 class="wp-block-heading">Here’s What Teachers and Students Say</h2>
+<h2 class="wp-block-heading">Here’s what teachers and students say</h2>
 
 
 
