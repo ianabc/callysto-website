@@ -216,7 +216,7 @@ sections:
   - block: cta-card
     id: contact
     content:
-      title: '<p style="text-align: center; width: 70vw;">Have questions? We're here to help.</p>'
+      title: Have questions? We're here to help.
       text: '<p style="text-align: center; width: 70vw;">Email contact@callysto.ca if you have questions about how to use Callysto in your classroom.</p>'
       # button:
       #   text: Get Started

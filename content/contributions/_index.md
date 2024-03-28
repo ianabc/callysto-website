@@ -1,5 +1,5 @@
 ---
-title: '<p style="font-size:25px; text-align: center; width: 70vw;">Contributions</p>'
+title: Contributions
 ---
 We would like to express our sincere gratitude to everyone who contributed to the Callysto project. Their collective efforts have been instrumental in reaching the project's goals.
 
