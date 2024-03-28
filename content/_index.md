@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: banner.jpg
+          filename: banner.png
           filters:
             brightness: 0.5
   - block: stats
