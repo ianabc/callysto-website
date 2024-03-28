@@ -1,0 +1,23 @@
+---
+title: Using Callysto data visualizations in the classroom
+date: 2021-03-29
+---
+<h2>Part One: How and why to incorporate data visualizations into your lessons</h2>
+<p><i><span style="font-weight: 400;">This blog post was written by Callysto team member Dr. Verena Roberts. Dr. Roberts is a Callysto Education Specialist and a former online high school teacher with Rocky View Schools, in Alberta, Canada (she stepped away from her teaching role in January 2021).</span></i></p>
+<p><span style="font-weight: 400;">During my time as a high school English teacher, I was frequently looking for ways to integrate data literacy into my classroom in a meaningful and authentic way. This is why the Callysto data visualizations have been intentionally designed to integrate computational thinking and data science into interdisciplinary subjects. </span></p>
+<p><span style="font-weight: 400;">I believe these data visualizations can be used to communicate critical thinking skills in subjects like English, in a user-friendly way.&nbsp;</span></p>
+<h3>Why I used data visualizations</h3>
+<p><span style="font-weight: 400;">Across the English Language Arts curricula in the </span><a href="https://education.alberta.ca/media/160418/ela-pos-10-12.pdf" target="_blank" rel="noopener"><span style="font-weight: 400;">Alberta Program of Studies</span></a><span style="font-weight: 400;">, students are expected to engage with and create different forms of texts, including multimedia texts.&nbsp;</span></p>
+<p><span style="font-weight: 400;">According to the Program of Studies, multimedia texts can include:&nbsp;</span></p>
+<blockquote><p><span style="font-weight: 400;">“demonstrations and oral presentations, videos and films, graphic novels and cartoon strips, plays, drum dancing, and internet websites. Any text that combines an oral component with a visual component; a print component with an oral component; or a print component with a visual component is a multimedia text. Many multimedia texts combine components of all three text types — oral, print and visual — to achieve their effects.”&nbsp;</span></p></blockquote>
+<p><span style="font-weight: 400;">In addition, senior high school students must be able to communicate in a variety of contexts, for a variety of purposes, with a variety of audiences, and given a variety of situations.&nbsp;</span></p>
+<p><span style="font-weight: 400;">I was looking for a way to directly connect multimedia to text, as well as encourage students to consider the data when they communicate their understanding of the spaces in which they learn.&nbsp;</span></p>
+<h3>How I used the data visualizations</h3>
+<p><span style="font-weight: 400;">When I taught the ELA 20-2 (English Language Arts) class, students were asked to reflect upon a weekly “Provocation” that was added to the </span><a href="https://sites.google.com/view/weekly-provocations-roberts-20/home" target="_blank" rel="noopener"><span style="font-weight: 400;">course blog</span></a><span style="font-weight: 400;">, as part of their writing development. </span></p>
+<p><span style="font-weight: 400;">The course blog was meant to model what an ePortfolio could look like in a high school literacy context. The students were asked to create an ePortfolio (using <a href="https://sites.google.com/new" target="_blank" rel="noopener">Google Sites</a>), then add their weekly personal response to the questions provided by the teacher in the provocation.</span></p>
+<p><span style="font-weight: 400;">The course blog for my class was called <a href="https://sites.google.com/view/weekly-provocations-roberts-20/home" target="_blank" rel="noopener">#WalkMyWorld.</a></span></p>
+<p><span style="font-weight: 400;">The provocations were intended to reflect upon the wide range of ways we (as humans) communicate with each other. These included videos, poetry, images, how-to manuals and, in this case, a data visualization.&nbsp;</span></p>
+<p><span style="font-weight: 400;">I wanted to ensure that the students met their media literacy course learning outcomes, while participating in emerging trends in literacy practices for K-12 learning environments.</span></p>
+<p><span style="font-weight: 400;">The students were encouraged to respond and communicate their reflections in multiple ways, as outlined below.&nbsp;</span></p>
+<h3>How Did the ePortfolio Work?</h3>
+<p><span style="font-weight: 400;">The following directions were taken from the course blog:</span></p>
