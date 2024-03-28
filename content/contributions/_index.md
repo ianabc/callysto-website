@@ -37,6 +37,9 @@ Innovation Coordinator, PIMS, Callysto Ambassador for B.C.
 <b>David Hay</b><br>
 Learning & Development Manager, Callysto Ambassador for Alberta
 
+<b>Brad White</b><br>
+Project Manager
+
 <b>Laura Gutierrez-Funderburk</b><br>
 Data Scientist
 
