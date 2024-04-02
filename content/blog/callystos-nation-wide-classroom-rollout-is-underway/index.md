@@ -15,10 +15,7 @@ date: 2019-10-07
 <p>“Callysto enhances the learning experience by adding interactive or analytical elements to a basic lesson, helping students go beyond the textbook and actually play with the data,” says Barb Carra, President and CEO of Cybera. “This not only makes the lesson more interesting, but also develops the students’ digital literacy and computational thinking skills.”</p>
 
 
-
 <p>The interactive “digital textbook” features free open-source tools such as Jupyter notebooks, a web platform widely used by industry and universities to freely share research and discoveries. The platform marries traditional reports (including text and images) with interactive elements — including multimedia that can be manipulated by the viewer, or tables that are continuously updated with real-time data.</p>
-
-
 
 <h2 class="wp-block-heading">How Callysto is used in the classroom</h2>
 
