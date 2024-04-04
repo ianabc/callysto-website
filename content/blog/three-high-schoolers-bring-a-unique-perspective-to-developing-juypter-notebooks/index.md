@@ -14,11 +14,11 @@ date: 2019-01-21
 
 
 
-<p><strong>What did you learn while working on the Callysto project? </strong><br>"The projects offered us the ability to learn more about Python, open data, and how to use computational thinking to teach subjects, such as chemistry, math and life skills courses." <br>– Wenyi "Krystal" Hu</p>
+<p><strong>What did you learn while working on the Callysto project? </strong><br>"The projects offered us the ability to learn more about Python, open data, and how to use computational thinking to teach subjects, such as chemistry, math and life skills courses."<br>– Wenyi "Krystal" Hu</p>
 
 
 
-<p><strong>What is your favourite part of being involved in the Callysto project? </strong><br>"For me, I am getting to creating content that will actually be used in high schools across Canada. Most importantly, I’m able to learn real-world skills that will help me in my future career." <br>– Chloe Coleongco</p>
+<p><strong>What is your favourite part of being involved in the Callysto project? </strong><br>"For me, I am getting to creating content that will actually be used in high schools across Canada. Most importantly, I’m able to learn real-world skills that will help me in my future career."<br>– Chloe Coleongco</p>
 
 <!-- 
 
@@ -34,23 +34,23 @@ date: 2019-01-21
 
 
 
-<p><strong>What was the biggest challenge of this project? </strong><br>"The biggest challenge for me, but also one of the best parts, was that the nature of the work was extremely open-ended. I had to come up with ideas about how to write a specific module on the gas laws, and then I would code it into a Juypter notebook, without any additional input apart from my fellow interns." <br>– Noah Gergel</p>
+<p><strong>What was the biggest challenge of this project? </strong><br>"The biggest challenge for me, but also one of the best parts, was that the nature of the work was extremely open-ended. I had to come up with ideas about how to write a specific module on the gas laws, and then I would code it into a Juypter notebook, without any additional input apart from my fellow interns."<br>– Noah Gergel</p>
 
 
 
-<!-- <div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" decoding="async" src="IMG_0017_web.jpg" alt="" class="wp-image-1734" width="432" height="375"><figcaption>Noah Gergel and Wenyi "Krystal" Hu hard at work creating and coding content for Callysto modules.</figcaption></figure></div> -->
+<!-- <div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" decoding="async" src="IMG_0017_web.jpg" alt="" class="wp-image-1734" width="432" height="375"><figcaption>Noah Gergel and Wenyi "Krystal" Hu hard at work creating and coding content for Callysto modules.</figcaption></figure></div> -->
 
 
 
-<p><strong>What was it like to work as a developer for the summer? </strong><br>"The work I did was challenging and interesting, and everything I did contributed to helping my fellow students learn something new, which is a great feeling. I really couldn’t have asked for a better experience."<br>– Chloe Coleongco</p>
+<p><strong>What was it like to work as a developer for the summer? </strong><br>"The work I did was challenging and interesting, and everything I did contributed to helping my fellow students learn something new, which is a great feeling. I really couldn’t have asked for a better experience."<br>– Chloe Coleongco</p>
 
 
 
-<p><strong>How hard is it to learn Python?</strong><br>"For some, it might be a bit of a leap to learn Python. But that’s why we created the "narrated" coding within the learning modules. It gives both the teacher and students the ability to learn for themselves how different functions work."<br>– Wenyi "Krystal" Hu </p>
+<p><strong>How hard is it to learn Python?</strong><br>"For some, it might be a bit of a leap to learn Python. But that’s why we created the "narrated" coding within the learning modules. It gives both the teacher and students the ability to learn for themselves how different functions work."<br>– Wenyi "Krystal" Hu </p>
 
 
 
-<p><strong>Advice to future users</strong><br>Cleongco, Greggerler and Hu all said they believe Callysto is the future of learning online. For those new to the platform, they agree that the best way to approach Callysto is to treat it as both an online textbook and a multi-modal learning platform. </p>
+<p><strong>Advice to future users</strong><br>Cleongco, Greggerler and Hu all said they believe Callysto is the future of learning online. For those new to the platform, they agree that the best way to approach Callysto is to treat it as both an online textbook and a multi-modal learning platform.</p>
 
 
 
