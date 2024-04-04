@@ -28,11 +28,6 @@ date: 2020-06-30
 “How much open-source data is available on the internet. I was able to learn how to code with Python, which I had not been exposed to with the computer courses I have taken at school.”</p>
 <h3>June Kim, Grace Zhu, and Allan Yin - Best team notebook</h3>
 <p><img loading="lazy" decoding="async" class="alignleft wp-image-4501 size-full" src="hackathon-team-award.jpg" alt="" width="600" height="261" srcset="hackathon-team-award.jpg 600w, hackathon-team-award-300x131.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><i>Pictured above from left to right: June Kim, Grace Zhu, and Allan Yin.&nbsp;</i></p>
 <p><strong>Challenge theme:</strong> Should we colonize Mars?</p>
 <p><strong>The group’s question:</strong> Do rising temperatures indicate the Earth is becoming less habitable?</p>
