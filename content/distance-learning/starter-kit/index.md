@@ -9,43 +9,23 @@ date: 2024-03-31
 <li>A secure internet connection</li>
 <li>An internet browser (Google Chrome or FireFox are ideal)</li>
 </ul>
-</div>
-	</div>
-</div>
-</div>
-</div>
-	</div>
-		</div>
-	</div>
-</div>
-<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5f90997ce1a95 fl-row-default-height fl-row-align-center" data-node="5f90997ce1a95">
-	<div class="fl-row-content-wrap">
-						<div class="fl-row-content fl-row-fixed-width fl-node-content">
-		
-<div class="fl-col-group fl-node-5f90997ce42dd" data-node="5f90997ce42dd">
-			<div class="fl-col fl-node-5f90997ce437c" data-node="5f90997ce437c">
-	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-5f90b50f2efb8" data-node="5f90b50f2efb8">
-	<div class="fl-module-content fl-node-content">
-		<h2 class="fl-heading">
-		<span class="fl-heading-text">Get Familiar with Callysto</span>
-	</h2>
-	</div>
-</div>
-<div class="fl-module fl-module-accordion fl-node-5f90aa6c3e7fa" data-node="5f90aa6c3e7fa">
-	<div class="fl-module-content fl-node-content">
-		
-<div class="fl-accordion fl-accordion-medium fl-accordion-collapse" role="tablist">
-				<div class="fl-accordion-item ">
-				<div class="fl-accordion-button" id="fl-accordion-5f90aa6c3e7fa-tab-0" aria-selected="false" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-0" aria-expanded="false" role="tab" tabindex="0">
 
-					
-					<a href="javascript:void(0);" id="fl-accordion-5f90aa6c3e7fa-label-0" class="fl-accordion-button-label" tabindex="0" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-0">1. Log into the Callysto Hub</a>
+<h2>Get Familiar with Callysto</h2>
 
-											<a href="https://www.callysto.ca/starter-kit/#" id="fl-accordion-5f90aa6c3e7fa-icon-0" class="fl-accordion-button-icon" tabindex="-1" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-0"><i class="fl-accordion-button-icon fl-accordion-button-icon-right fas fa-plus"><span class="sr-only">Expand</span></i></a>
-					
-				</div>
-				<div class="fl-accordion-content fl-clearfix" id="fl-accordion-5f90aa6c3e7fa-panel-0" aria-labelledby="fl-accordion-5f90aa6c3e7fa-tab-0" aria-hidden="true" role="tabpanel" aria-live="polite">
-					<p>The “Hub” is your free, online workspace for the Callysto learning modules you use. <a href="https://www.callysto.ca/wp-content/uploads/2019/07/CallystoPrivacyNotice-July2019.pdf">We don’t store any personal information</a>.</p>
+{{< spoiler text="1. Log into the Callysto Hub" >}}
+<p>The “Hub” is your free, online workspace for the Callysto learning modules you use. <a href="https://www.callysto.ca/wp-content/uploads/2019/07/CallystoPrivacyNotice-July2019.pdf">We don’t store any personal information</a>.</p>
+
+<p><strong><span style="color: #800080;">Video demonstration<br>
+</span></strong><span style="color: #800080;">(Less than 2 minutes)</span></p>
+
+{{< /spoiler >}}
+
+<a href="https://www.callysto.ca/starter-kit/#" id="fl-accordion-5f90aa6c3e7fa-icon-0" class="fl-accordion-button-icon" tabindex="-1" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-0"><i class="fl-accordion-button-icon fl-accordion-button-icon-right fas fa-plus"><span class="sr-only">Expand</span></i></a>
+    
+</div>
+<div class="fl-accordion-content fl-clearfix" id="fl-accordion-5f90aa6c3e7fa-panel-0" aria-labelledby="fl-accordion-5f90aa6c3e7fa-tab-0" aria-hidden="true" role="tabpanel" aria-live="polite">
+    <p>The “Hub” is your free, online workspace for the Callysto learning modules you use. <a href="https://www.callysto.ca/wp-content/uploads/2019/07/CallystoPrivacyNotice-July2019.pdf">We don’t store any personal information</a>.</p>
+
 <p><strong><span style="color: #800080;">Video demonstration<br>
 </span></strong><span style="color: #800080;">(Less than 2 minutes)</span></p>
 <p></p><div style="width: 1200px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
