@@ -1,5 +1,5 @@
 ---
-title: JupyterCon: (Some of) the Callysto team goes global!
+title: 'JupyterCon: (Some of) the Callysto team goes global!'
 date: 2018-11-22
 ---
 <div class="wp-block-image"><figure class="alignright size-large"><img decoding="async" width="499" height="440" src="Alex-JupyterCon-2018_1-499x440-1.jpg" alt="" class="wp-image-3858" srcset="Alex-JupyterCon-2018_1-499x440-1.jpg 499w, Alex-JupyterCon-2018_1-499x440-1-300x265.jpg 300w" sizes="(max-width: 499px) 100vw, 499px"></figure></div>
