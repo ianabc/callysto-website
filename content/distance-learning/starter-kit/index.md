@@ -13,7 +13,8 @@ date: 2024-03-31
 <h2>Get Familiar with Callysto</h2>
 
 {{< spoiler text="Log into the Callysto Hub" >}}
-<p>The “Hub” is your free, online workspace for the Callysto learning modules you use. <a href="https://www.callysto.ca/wp-content/uploads/2019/07/CallystoPrivacyNotice-July2019.pdf">We don’t store any personal information</a>.</p>
+<p>The “Hub” is your free, online workspace for the Callysto learning modules you use.</p>
+ <!-- <a href="https://www.callysto.ca/wp-content/uploads/2019/07/CallystoPrivacyNotice-July2019.pdf">We don’t store any personal information</a>. -->
 
 <p><strong><span style="color: #800080;">Video demonstration<br>
 </span></strong><span style="color: #800080;">(Less than 2 minutes)</span></p>
