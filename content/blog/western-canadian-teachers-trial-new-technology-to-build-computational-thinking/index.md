@@ -48,11 +48,7 @@ date: 2018-07-11
 
 <div class="wp-block-image post-img-shadow alignnone wp-image-617"><figure class="aligncenter"><img decoding="async" src="Teachers-Leaning-Callysto_Blog_news-size-1024x629.jpg" alt="Teachers Leaning Callysto" class="wp-image-617"><figcaption>A teacher playing with an interactive map during one of the Callysto training workshops.</figcaption></figure></div> -->
 
-
-
-<p><span style="font-weight: 400;">“I have a group of children who are very interested in code,” says Ferbey. “They love to code, and [Callysto] could be a way for these kids to work on an extension activity from their Google Docs assignments. It might be a little scary for those who have not seen code before, but if you break it down and make it easy to understand, I think everyone, even those who have never worked with code before, could easily wrap their heads around it.”</span></p>
-
-
+<p>“I have a group of children who are very interested in code,” says Ferbey. “They love to code, and [Callysto] could be a way for these kids to work on an extension activity from their Google Docs assignments. It might be a little scary for those who have not seen code before, but if you break it down and make it easy to understand, I think everyone, even those who have never worked with code before, could easily wrap their heads around it.”</p>
 
 <p>“We are happy with the progress of the Callysto project to date,” says Dr. Barb Carra, Chief Operating Officer of Cybera. “The positive feedback we have received from educators tells us there is a definite need and desire to increase digital skills and applications in education. We are progressively training more technology-loving teachers on how to use the Callysto platform, so their classrooms, and our leaders of tomorrow, may also benefit from the innovative teaching and learning tool.”</p>
 
@@ -105,7 +101,3 @@ date: 2018-07-11
 
 
 <p class="has-text-align-center"><span style="font-weight: 400;">Meagan Hampel<br>Director of Communications, Cybera<br><a href="mailto:meagan.hampel@cybera.ca" target="_blank" rel="noopener noreferrer">meagan.hampel@cybera.ca</a> | (403) 210-5271</span></p>
-
-		
-		
-			</div><!-- .entry-content .clear -->
