@@ -26,7 +26,7 @@ date: 2019-01-21
 
 
 
-<p><strong>What makes this experience different from other projects you have worked on?</strong><br>“The best thing about my internship with the Callysto project is that I get a lot of hands-on experience with Python, and that means I will be one step ahead of my future computing science classmates.”<br>– Wenyi “Krystal” Hu</p>
+<p><strong>What makes this experience different from other projects you have worked on?</strong><br>"The best thing about my internship with the Callysto project is that I get a lot of hands-on experience with Python, and that means I will be one step ahead of my future computing science classmates."<br>– Wenyi “Krystal” Hu</p>
 
 
 

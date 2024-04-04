@@ -22,20 +22,16 @@ date: 2018-06-06
 
 
 
-<div class="wp-block-image post-img-shadow wp-image-442 size-full"><figure class="aligncenter"><img decoding="async" src="ClimateChangeScreenShotCallysto_web.png" alt="ClimateChangeScreenShotCallysto_web" class="wp-image-442"><figcaption>The graph above illustrates the annual average temperature departures from the 1961-1990 reference value (or the average temperatures recorded between 1961 to 1990) in Canada from 1948 to 2014. The data was obtained from Government of Canada’s Open Data Portal.</figcaption></figure></div>
+<!-- <div class="wp-block-image post-img-shadow wp-image-442 size-full"><figure class="aligncenter"><img decoding="async" src="ClimateChangeScreenShotCallysto_web.png" alt="ClimateChangeScreenShotCallysto_web" class="wp-image-442"><figcaption>The graph above illustrates the annual average temperature departures from the 1961-1990 reference value (or the average temperatures recorded between 1961 to 1990) in Canada from 1948 to 2014. The data was obtained from Government of Canada’s Open Data Portal.</figcaption></figure></div> -->
 
 
-
-<p><span style="font-weight: 400;">“It is so easy for students to use,” he adds. “Basically, you can give them a link that pulls repositories from </span><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a><span style="font-weight: 400;">, and then they sign in with their Google account, or whatever credentials it is set up for. The fact that we do not have to worry about hosting the technology or anything like that is great.” </span></p>
-
-
+<p>“It is so easy for students to use,” he adds. “Basically, you can give them a link that pulls repositories from </span><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a><span style="font-weight: 400;">, and then they sign in with their Google account, or whatever credentials it is set up for. The fact that we do not have to worry about hosting the technology or anything like that is great.”</p>
 
 <p><span style="font-weight: 400;">The Callysto platform, which is accessible through any internet connection</span><span style="font-weight: 400;">, contains interactive learning modules that have been developed by Cybera and PIMS to be subject-specific. Using these modules, students can perform a number of tasks, from basic math equations to analyzing open data through interactive graphs, such as the one pictured. </span></p>
 
 
 
 <!-- <div class="wp-block-image post-img-shadow wp-image-448 size-full"><figure class="aligncenter"><img decoding="async" src="InvestigatingConductivityScreenShotCallysto_web.png" alt="InvestigatingConductivityScreenShotCallysto_web" class="wp-image-448"><figcaption>A sample module where students have taken open data from Edmonton’s Rossdale Epcor water treatment plant collected over a week, along with the readings from their experiment, and, then graphed the conductivity.</figcaption></figure></div> -->
-
 
 
 <p><span style="font-weight: 400;">Callysto leverages&nbsp;</span><a href="http://jupyter.org/" target="_blank" rel="noopener noreferrer">Jupyter</a><span style="font-weight: 400;">, a powerful, web-based computing platform originally developed for universities and researchers to share their analyses, but now frequently used as an interactive textbook in post-secondary classrooms. A major benefit to the Jupyter framework is how it utilizes a vast amount of expertise and open data from around the world</span><b>. </b><span style="font-weight: 400;">Students are able to connect their assignments, or notebooks, to live, up-to-date open data produced by organizations and institutions, such as the National Aeronautics and Space Administration (</span><a href="https://data.nasa.gov/" target="_blank" rel="noopener noreferrer">NASA</a><span style="font-weight: 400;">), the </span><a href="https://data.edmonton.ca/" target="_blank" rel="noopener noreferrer">City of Edmonton</a><span style="font-weight: 400;">, and the </span><a href="https://open.canada.ca/en/open-data" target="_blank" rel="noopener noreferrer">Government of Canada</a><span style="font-weight: 400;">. </span></p>
