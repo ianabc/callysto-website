@@ -49,16 +49,10 @@ date: 2024-03-31
 <p><span style="color: #800080;"><strong>Video demonstration</strong></span><br>
 <span style="color: #800080;">(It’s approximately 6 minutes long.)</span></p>
 <video src="parts-of-a-callysto-notebook.mp4" controls></video>
-{{< /spoiler >}}
 
-<h4></h4>
-<h4>2B. Understand the main parts of a Callysto notebook</h4>
-<p>Callysto learning modules are based on “Jupyter notebooks” – an open-source platform that lets you create and share content (including functions, text, and media) using code. You don’t need to know how to code in order to use a notebook – this section explains what the main parts of a Callysto learning module are, so you understand what you’re looking at.</p>
-<p><span style="color: #800080;"><strong>Video demonstration</strong></span><br>
-<span style="color: #800080;">(It’s approximately 6 minutes long.)</span></p>
-<p></p><div style="width: 1120px;" class="wp-video"><span class="mejs-offscreen">Video Player</span><div id="mep_1" class="mejs-container mejs-container-keyboard-inactive wp-video-shortcode mejs-video" tabindex="0" role="application" aria-label="Video Player" style="width: 1060px; height: 662.5px;"><div class="mejs-inner"><div class="mejs-mediaelement"><mediaelementwrapper id="video-241-2"><video class="wp-video-shortcode" id="video-241-2_html5" width="1120" height="720" preload="metadata" src="https://www.callysto.ca/wp-content/uploads/2020/10/parts-of-a-callysto-notebook.mp4?_=2" style="width: 1060px; height: 662.5px;"><source type="video/mp4" src="https://www.callysto.ca/wp-content/uploads/2020/10/parts-of-a-callysto-notebook.mp4?_=2"><a href="https://www.callysto.ca/wp-content/uploads/2020/10/parts-of-a-callysto-notebook.mp4">https://www.callysto.ca/wp-content/uploads/2020/10/parts-of-a-callysto-notebook.mp4</a></video></mediaelementwrapper></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 100%; height: 100%;"></div><div class="mejs-overlay mejs-layer" style="width: 100%; height: 100%; display: none;"><div class="mejs-overlay-loading"><span class="mejs-overlay-loading-bg-img"></span></div></div><div class="mejs-overlay mejs-layer" style="display: none; width: 100%; height: 100%;"><div class="mejs-overlay-error"></div></div><div class="mejs-overlay mejs-layer mejs-overlay-play" style="width: 100%; height: 100%;"><div class="mejs-overlay-button" role="button" tabindex="0" aria-label="Play" aria-pressed="false"></div></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_1" title="Play" aria-label="Play" tabindex="0"></button></div><div class="mejs-time mejs-currenttime-container" role="timer" aria-live="off"><span class="mejs-currenttime">00:00</span></div><div class="mejs-time-rail"><span class="mejs-time-total mejs-time-slider" role="slider" tabindex="0" aria-label="Time Slider" aria-valuemin="0" aria-valuemax="378.433333" aria-valuenow="0" aria-valuetext="00:00"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded" style="transform: scaleX(0.0157333);"></span><span class="mejs-time-current" style="transform: scaleX(0);"></span><span class="mejs-time-hovered no-hover"></span><span class="mejs-time-handle" style="transform: translateX(0px);"><span class="mejs-time-handle-content"></span></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time mejs-duration-container"><span class="mejs-duration">06:18</span></div><div class="mejs-button mejs-volume-button mejs-mute"><button type="button" aria-controls="mep_1" title="Mute" aria-label="Mute" tabindex="0"></button><a href="javascript:void(0);" class="mejs-volume-slider" aria-label="Volume Slider" aria-valuemin="0" aria-valuemax="100" role="slider" aria-orientation="vertical" aria-valuenow="80" aria-valuetext="80%"><span class="mejs-offscreen">Use Up/Down Arrow keys to increase or decrease volume.</span><div class="mejs-volume-total"><div class="mejs-volume-current" style="bottom: 0px; height: 80%;"></div><div class="mejs-volume-handle" style="bottom: 80%; margin-bottom: -3px;"></div></div></a></div><div class="mejs-button mejs-fullscreen-button"><button type="button" aria-controls="mep_1" title="Fullscreen" aria-label="Fullscreen" tabindex="0"></button></div></div></div></div></div><p></p>
 <p><span style="color: #800080;"><strong>Visual guide</strong></span></p>
-<p><img loading="lazy" decoding="async" class="wp-image-301 size-full aligncenter" style="box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.2);" src="./Starter Kit – Callysto_files/Screen-Shot-2020-09-18-at-10.50.09-AM.png" alt="Screen shot of Jupyter Notebook" width="2518" height="698" srcset="https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-09-18-at-10.50.09-AM.png 2518w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-09-18-at-10.50.09-AM-300x83.png 300w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-09-18-at-10.50.09-AM-1024x284.png 1024w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-09-18-at-10.50.09-AM-768x213.png 768w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-09-18-at-10.50.09-AM-1536x426.png 1536w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-09-18-at-10.50.09-AM-2048x568.png 2048w" sizes="(max-width: 2518px) 100vw, 2518px"></p>
+<p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="Screen-Shot-2020-09-18-at-10.50.09-AM.png" width="800" height="550"></p>
+
 <ul>
 <li><strong><span style="color: #3366ff;">A</span>: “<span style="color: #3366ff;">+</span>”</strong>– this allows you to add another cell.</li>
 <li><strong><span style="color: #800080;">B</span>: “<span style="color: #800080;">Scissors</span>”</strong>– this allows you to remove a cell you added.</li>
@@ -67,46 +61,19 @@ date: 2024-03-31
 <li><strong><span style="color: #993300;">E</span>: <span style="color: #993300;">Code cell</span></strong> – this type of cell allows you to add in, or “holds” Python code. You know it’s a Code cell because the dropdown indicator (“D”) says “Code”. Also to the left of the cell you’ll see “In [ ]:”.</li>
 <li><strong><span style="color: #ff0000;">F</span>: <span style="color: #ff0000;">Markdown cell</span></strong> – this type of cell allows you to add in, or “holds” text or pictures.&nbsp; You know it’s a Markdown cell because the dropdown indicator (“D”) says “Markdown.”</li>
 </ul>
-				</div>
-			</div>
-						<div class="fl-accordion-item ">
-				<div class="fl-accordion-button" id="fl-accordion-5f90aa6c3e7fa-tab-2" aria-selected="false" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-2" aria-expanded="false" role="tab" tabindex="0">
+{{< /spoiler >}}
 
-					
-					<a href="javascript:void(0);" id="fl-accordion-5f90aa6c3e7fa-label-2" class="fl-accordion-button-label" tabindex="0" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-2">3. Watch a Walk-through of a Learning Module</a>
-
-											<a href="https://www.callysto.ca/starter-kit/#" id="fl-accordion-5f90aa6c3e7fa-icon-2" class="fl-accordion-button-icon" tabindex="-1" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-2"><i class="fl-accordion-button-icon fl-accordion-button-icon-right fas fa-plus"><span class="sr-only">Expand</span></i></a>
-					
-				</div>
-				<div class="fl-accordion-content fl-clearfix" id="fl-accordion-5f90aa6c3e7fa-panel-2" aria-labelledby="fl-accordion-5f90aa6c3e7fa-tab-2" aria-hidden="true" role="tabpanel" aria-live="polite">
-					<p>This walk-through looks at our learning module about climate-based open data, such as global temperatures. The module is a way for students to explore:</p>
+{{< spoiler text="Watch a walk-through of a learning module" >}}
+<p>This walk-through looks at our learning module about climate-based open data, such as global temperatures. The module is a way for students to explore:</p>
 <ul>
 <li>How to analyze graphs based on open data</li>
 <li>How to interpret the results they see from the data.</li>
 </ul>
 <p>You can also email us at <a href="mailto:contact@callysto.ca" target="_blank" rel="noopener">contact@callysto.ca</a> to schedule a walk-through of a module of your choice.</p>
-<p></p><div style="width: 1200px;" class="wp-video"><span class="mejs-offscreen">Video Player</span><div id="mep_2" class="mejs-container mejs-container-keyboard-inactive wp-video-shortcode mejs-video" tabindex="0" role="application" aria-label="Video Player" style="width: 1060px; height: 596.25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><mediaelementwrapper id="video-241-3"><video class="wp-video-shortcode" id="video-241-3_html5" width="1200" height="698" preload="metadata" src="https://www.callysto.ca/wp-content/uploads/2020/12/final-data-science-learning-module.mp4?_=3" style="width: 1060px; height: 596.25px;"><source type="video/mp4" src="https://www.callysto.ca/wp-content/uploads/2020/12/final-data-science-learning-module.mp4?_=3"><a href="https://www.callysto.ca/wp-content/uploads/2020/12/final-data-science-learning-module.mp4">https://www.callysto.ca/wp-content/uploads/2020/12/final-data-science-learning-module.mp4</a></video></mediaelementwrapper></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 100%; height: 100%;"></div><div class="mejs-overlay mejs-layer" style="width: 100%; height: 100%; display: none;"><div class="mejs-overlay-loading"><span class="mejs-overlay-loading-bg-img"></span></div></div><div class="mejs-overlay mejs-layer" style="display: none; width: 100%; height: 100%;"><div class="mejs-overlay-error"></div></div><div class="mejs-overlay mejs-layer mejs-overlay-play" style="width: 100%; height: 100%;"><div class="mejs-overlay-button" role="button" tabindex="0" aria-label="Play" aria-pressed="false"></div></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_2" title="Play" aria-label="Play" tabindex="0"></button></div><div class="mejs-time mejs-currenttime-container" role="timer" aria-live="off"><span class="mejs-currenttime">00:00</span></div><div class="mejs-time-rail"><span class="mejs-time-total mejs-time-slider" role="slider" tabindex="0" aria-label="Time Slider" aria-valuemin="0" aria-valuemax="252.633333" aria-valuenow="0" aria-valuetext="00:00"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current" style="transform: scaleX(0);"></span><span class="mejs-time-hovered no-hover"></span><span class="mejs-time-handle" style="transform: translateX(0px);"><span class="mejs-time-handle-content"></span></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time mejs-duration-container"><span class="mejs-duration">04:12</span></div><div class="mejs-button mejs-volume-button mejs-mute"><button type="button" aria-controls="mep_2" title="Mute" aria-label="Mute" tabindex="0"></button><a href="javascript:void(0);" class="mejs-volume-slider" aria-label="Volume Slider" aria-valuemin="0" aria-valuemax="100" role="slider" aria-orientation="vertical" aria-valuenow="80" aria-valuetext="80%"><span class="mejs-offscreen">Use Up/Down Arrow keys to increase or decrease volume.</span><div class="mejs-volume-total"><div class="mejs-volume-current" style="bottom: 0px; height: 80%;"></div><div class="mejs-volume-handle" style="bottom: 80%; margin-bottom: -3px;"></div></div></a></div><div class="mejs-button mejs-fullscreen-button"><button type="button" aria-controls="mep_2" title="Fullscreen" aria-label="Fullscreen" tabindex="0"></button></div></div></div></div></div><p></p>
-				</div>
-			</div>
-			</div>
-	</div>
-</div>
-</div>
-</div>
-	</div>
-		</div>
-	</div>
-</div>
-<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f90bbfc8b3df fl-row-default-height fl-row-align-center" data-node="5f90bbfc8b3df">
-	<div class="fl-row-content-wrap">
-						<div class="fl-row-content fl-row-fixed-width fl-node-content">
-		
-<div class="fl-col-group fl-node-5f91aeb330305" data-node="5f91aeb330305">
-			<div class="fl-col fl-node-5f91aeb3303c0" data-node="5f91aeb3303c0">
-	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5f91aeb3302ad" data-node="5f91aeb3302ad">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-rich-text">
-	<h2 style="text-align: center;">Try Callysto Yourself: Mini Lesson Plan</h2>
+<video src="final-data-science-learning-module.mp4?_=3" controls></video>
+{{< /spoiler >}}
+
+<h2 style="text-align: center;">Try Callysto Yourself: Mini Lesson Plan</h2>
 <h4>Required Materials</h4>
 <ul>
 <li>A computer or Chromebook for each student (tablets will also work, but not as well).</li>
@@ -120,17 +87,20 @@ date: 2024-03-31
 </ul>
 <h4>During the Activity</h4>
 <p>(Content in italics is a suggestion of what you can say to students)</p>
-</div>
-	</div>
-</div>
-</div>
-</div>
-	</div>
 
-<div class="fl-col-group fl-node-5f91bda86104c" data-node="5f91bda86104c">
-			<div class="fl-col fl-node-5f91bda86118a" data-node="5f91bda86118a">
-	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-accordion fl-node-5f91bda224f78" data-node="5f91bda224f78">
-	<div class="fl-module-content fl-node-content">
+{{< spoiler text="1. Introduction to data science" >}}
+<p>Start a discussion with your students about data science. Here's what we recommend:</p>
+<ol>
+<li><strong>Go to the <a href="https://www.gapminder.org/">Gapminder website</a>.</strong> Gapminder is an organization which uses data to promote facts. They also have ready-made data visualizations on a variety of topics.</li>
+<li><strong>Go to Gapminder's <a href="https://www.gapminder.org/tools/#$chart-type=bubbles">“tools” page</a>.</strong> This is where you can choose a variety of data visualizations.</li>
+<li><strong>After you choose a visualization, ask the students questions:</strong></li>
+</ol>
+<ul>
+<li>What patterns do you notice in the data?</li>
+<li>What questions do you have about the information you see?</li>
+<li>What conclusions can be made from this data?</li>
+</ul>
+{{< /spoiler >}}
 		
 <div class="fl-accordion fl-accordion-medium fl-accordion-collapse" role="tablist">
 				<div class="fl-accordion-item ">
@@ -143,17 +113,7 @@ date: 2024-03-31
 					
 				</div>
 				<div class="fl-accordion-content fl-clearfix" id="fl-accordion-5f91bda224f78-panel-0" aria-labelledby="fl-accordion-5f91bda224f78-tab-0" aria-hidden="true" role="tabpanel" aria-live="polite">
-					<p>Start a discussion with your students about data science. Here's what we recommend:</p>
-<ol>
-<li><strong>Go to the <a href="https://www.gapminder.org/">Gapminder website</a>.</strong> Gapminder is an organization which uses data to promote facts. They also have ready-made data visualizations on a variety of topics.</li>
-<li><strong>Go to Gapminder's <a href="https://www.gapminder.org/tools/#$chart-type=bubbles">“tools” page</a>.</strong> This is where you can choose a variety of data visualizations.</li>
-<li><strong>After you choose a visualization, ask the students questions:</strong></li>
-</ol>
-<ul>
-<li>What patterns do you notice in the data?</li>
-<li>What questions do you have about the information you see?</li>
-<li>What conclusions can be made from this data?</li>
-</ul>
+					
 				</div>
 			</div>
 						<div class="fl-accordion-item ">
