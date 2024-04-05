@@ -20,11 +20,7 @@ date: 2024-03-31
 **Youtube**:
 
     <!-- {{</* youtube w7Ft2ymGmfc */>}} -->
-    **Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="Final-updated-export-callysto-login-from-hub_1.mp4" controls="yes" */>}}
+<video src="Final-updated-export-callysto-login-from-hub_1.mp4" width="320" height="240" controls></video>
 
 {{< /spoiler >}}
 <p><strong><span style="color: #800080;">Visual guide</span></strong></p>
