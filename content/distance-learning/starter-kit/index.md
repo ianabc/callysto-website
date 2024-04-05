@@ -20,7 +20,7 @@ date: 2024-03-31
 **Youtube**:
 
     <!-- {{</* youtube w7Ft2ymGmfc */>}} -->
-    {{</* Log into the Callysto Hub src="Final-updated-export-callysto-login-from-hub_1.mp4" controls="yes" */>}}
+    {{</* video src="Final-updated-export-callysto-login-from-hub_1.mp4" controls="yes" */>}}
 
 {{< /spoiler >}}
 <p><strong><span style="color: #800080;">Visual guide</span></strong></p>
