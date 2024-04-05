@@ -34,7 +34,7 @@ date: 2024-03-31
 {{< /spoiler >}}
 
 
-{{< spoiler text="You’re in the “Hub." What’s next?" >}}
+{{< spoiler text="You’re in the Hub. What’s next?" >}}
 <h4>2A. Understand what you see when you log in</h4>
 <p>You’re logged in! You should see the Callysto Hub “landing page” (pictured below) which has three tabs:</p>
 <ul>
