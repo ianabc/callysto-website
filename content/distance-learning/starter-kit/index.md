@@ -13,41 +13,44 @@ date: 2024-03-31
 <h2>Get Familiar with Callysto</h2>
 
 {{< spoiler text="Log into the Callysto Hub" >}}
-<p>The “Hub” is your free, online workspace for the Callysto learning modules you use.</p>-- <a href="CallystoPrivacyNotice-July2019.pdf">We don’t store any personal information</a>.
+<p>The “Hub” is your free, online workspace for the Callysto learning modules you use. <a href="CallystoPrivacyNotice-July2019.pdf">We don’t store any personal information</a>.</p>
 
 <p><strong><span style="color: #800080;">Video demonstration<br>
 </span></strong><span style="color: #800080;">(Less than 2 minutes)</span></p>
-**Youtube**:
 
-    <!-- {{</* youtube w7Ft2ymGmfc */>}} -->
-<video src="Final-updated-export-callysto-login-from-hub_1.mp4" width="320" height="240" controls></video>
+<!-- {{</* youtube w7Ft2ymGmfc */>}} -->
+<video src="Final-updated-export-callysto-login-from-hub_1.mp4" controls></video>
+<!-- <video src="Final-updated-export-callysto-login-from-hub_1.mp4" width="320" height="240" controls></video> -->
 
-{{< /spoiler >}}
 <p><strong><span style="color: #800080;">Visual guide</span></strong></p>
 <p>1. Open your internet browser and type hub.callysto.ca.</p>
-<p><img fetchpriority="high" decoding="async" class="wp-image-297 size-full aligncenter" style="box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.2);" src="./Starter Kit – Callysto_files/Screen-Shot-2020-10-09-at-10.27.53-AM.png" alt="Screen shot of browser url bar" width="872" height="76" srcset="https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-10-09-at-10.27.53-AM.png 872w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-10-09-at-10.27.53-AM-300x26.png 300w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-10-09-at-10.27.53-AM-768x67.png 768w" sizes="(max-width: 872px) 100vw, 872px"></p>
-<p>2. Click on the <span style="color: #ff0000;">red house</span>.<img loading="lazy" decoding="async" class="aligncenter wp-image-299 size-full" style="box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.2);" src="./Starter Kit – Callysto_files/sign-in-window.png" alt="Screen shot of Callysto Hub&#39;s welcome page" width="260" height="338" srcset="https://www.callysto.ca/wp-content/uploads/2020/10/sign-in-window.png 260w, https://www.callysto.ca/wp-content/uploads/2020/10/sign-in-window-231x300.png 231w" sizes="(max-width: 260px) 100vw, 260px"></p>
-<p>3. Sign in with your Google or Microsoft account.<img loading="lazy" decoding="async" class="aligncenter wp-image-298 size-full" style="box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.2);" src="./Starter Kit – Callysto_files/select-account.png" alt="Screen shot of Callysto Hub login page" width="456" height="262" srcset="https://www.callysto.ca/wp-content/uploads/2020/10/select-account.png 456w, https://www.callysto.ca/wp-content/uploads/2020/10/select-account-300x172.png 300w" sizes="(max-width: 456px) 100vw, 456px"></p>
-				</div>
-			</div>
-						<div class="fl-accordion-item ">
-				<div class="fl-accordion-button" id="fl-accordion-5f90aa6c3e7fa-tab-1" aria-selected="false" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-1" aria-expanded="false" role="tab" tabindex="0">
+<p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="Screen-Shot-2020-10-09-at-10.27.53-AM.png" width="800" height="550"></p>
 
-					
-					<a href="javascript:void(0);" id="fl-accordion-5f90aa6c3e7fa-label-1" class="fl-accordion-button-label" tabindex="0" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-1">2. You’re in the “Hub." What’s next?</a>
+<p>2. Click on the <span style="color: #ff0000;">red house</span>.</p>
+<p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="sign-in-window.png" width="800" height="550"></p>
 
-											<a href="https://www.callysto.ca/starter-kit/#" id="fl-accordion-5f90aa6c3e7fa-icon-1" class="fl-accordion-button-icon" tabindex="-1" aria-controls="fl-accordion-5f90aa6c3e7fa-panel-1"><i class="fl-accordion-button-icon fl-accordion-button-icon-right fas fa-plus"><span class="sr-only">Expand</span></i></a>
-					
-				</div>
-				<div class="fl-accordion-content fl-clearfix" id="fl-accordion-5f90aa6c3e7fa-panel-1" aria-labelledby="fl-accordion-5f90aa6c3e7fa-tab-1" aria-hidden="true" role="tabpanel" aria-live="polite">
-					<h4>2A. Understand what you see when you log in</h4>
+<p>3. Sign in with your Google or Microsoft account.
+<p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="select-account.png" width="800" height="550"></p>
+{{< /spoiler >}}
+
+
+{{< spoiler text="You’re in the “Hub." What’s next?" >}}
+<h4>2A. Understand what you see when you log in</h4>
 <p>You’re logged in! You should see the Callysto Hub “landing page” (pictured below) which has three tabs:</p>
 <ul>
 <li><span style="color: #333399;"><strong>Files</strong></span>: this is a file directory system that shows all of the Callysto notebooks/modules you’ve opened, or are working on.</li>
 <li><span style="color: #008000;"><strong>Running</strong></span>: these are the notebooks that you have open in your Hub environment.</li>
 <li><span style="color: #ff00ff;"><strong>Clusters</strong></span>: this is a more technical feature; you don’t need to know how to use it when you’re learning Callysto for the first time.</li>
 </ul>
-<h4><img loading="lazy" decoding="async" class="aligncenter wp-image-315 size-large" style="box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.2);" src="./Starter Kit – Callysto_files/Screen-Shot-2020-10-27-at-3.21.16-PM-1024x333.png" alt="Screenshot of Callysto Hub&#39;s landing page" width="1024" height="333" srcset="https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-10-27-at-3.21.16-PM-1024x333.png 1024w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-10-27-at-3.21.16-PM-300x98.png 300w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-10-27-at-3.21.16-PM-768x250.png 768w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-10-27-at-3.21.16-PM-1536x500.png 1536w, https://www.callysto.ca/wp-content/uploads/2020/10/Screen-Shot-2020-10-27-at-3.21.16-PM-2048x666.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></h4>
+<p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="Screen-Shot-2020-10-27-at-3.21.16-PM-1024x333.png" width="800" height="550"></p>
+
+<h4>2B. Understand the main parts of a Callysto notebook</h4>
+<p>Callysto learning modules are based on “Jupyter notebooks” – an open-source platform that lets you create and share content (including functions, text, and media) using code. You don’t need to know how to code in order to use a notebook – this section explains what the main parts of a Callysto learning module are, so you understand what you’re looking at.</p>
+<p><span style="color: #800080;"><strong>Video demonstration</strong></span><br>
+<span style="color: #800080;">(It’s approximately 6 minutes long.)</span></p>
+<video src="parts-of-a-callysto-notebook.mp4" controls></video>
+{{< /spoiler >}}
+
 <h4></h4>
 <h4>2B. Understand the main parts of a Callysto notebook</h4>
 <p>Callysto learning modules are based on “Jupyter notebooks” – an open-source platform that lets you create and share content (including functions, text, and media) using code. You don’t need to know how to code in order to use a notebook – this section explains what the main parts of a Callysto learning module are, so you understand what you’re looking at.</p>
