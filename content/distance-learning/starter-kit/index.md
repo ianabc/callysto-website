@@ -73,7 +73,7 @@ date: 2024-03-31
 <!-- <video src="final-data-science-learning-module.mp4?_=3" controls></video> -->
 {{< /spoiler >}}
 
-<h2 style="text-align: center;">Try Callysto Yourself: Mini Lesson Plan</h2>
+<h2 style="text-align: left;">Try Callysto Yourself: Mini Lesson Plan</h2>
 <h4>Required Materials</h4>
 <ul>
 <li>A computer or Chromebook for each student (tablets will also work, but not as well).</li>
@@ -88,7 +88,7 @@ date: 2024-03-31
 <h4>During the Activity</h4>
 <p>(Content in italics is a suggestion of what you can say to students)</p>
 
-{{< spoiler text="1. Introduce data science" >}}
+{{< spoiler text="Introduce data science" >}}
 <p>Start a discussion with your students about data science. Here's what we recommend:</p>
 <ol>
 <li><strong>Go to the <a href="https://www.gapminder.org/">Gapminder website</a>.</strong> Gapminder is an organization which uses data to promote facts. They also have ready-made data visualizations on a variety of topics.</li>
@@ -102,21 +102,21 @@ date: 2024-03-31
 </ul>
 {{< /spoiler >}}
 
-{{< spoiler text="'2. Explain why data science is important" >}}
+{{< spoiler text="Explain why data science is important" >}}
 <p><em>Data science skills, including data analysis and coding, can help you solve problems in a variety of subjects. These skills are also important when you’re looking for a job. Data science skills also help you spot misinformation online, such as misleading graphs.</em></p>
 {{< /spoiler >}}
 
-{{< spoiler text="3. Explain what Callysto is" >}}
+{{< spoiler text="Explain what Callysto is" >}}
 <p><em>We’re going to practice your data science skills using Callysto. Callysto uses something called “Jupyter notebooks”, which is an online platform used by many university classes to build and share live content. All Callysto learning modules use the Python programming language, which is also the programming language used by most data scientists.</em></p>
 {{< /spoiler >}}
 
 
-{{< spoiler text="4. Get students to log in" >}}
+{{< spoiler text="Get students to log in" >}}
 <p>Get students to log in to <a href="http://hub.callysto.ca/">hub.callysto.ca</a> with their Google or Microsoft account.</p>
 {{< /spoiler >}}
 
 
-{{< spoiler text="5. Provide the learning module" >}}
+{{< spoiler text="Provide the learning module" >}}
 <p>Provide students the link to the learning module they’ll be using.</p>
 <p>We suggest students start with our <a href="http://bit.ly/curiosity-challenge0">Pets on Mars</a> module if they're new to data science and Python programming.</p>
 <p>Have you opened this learning module before, and get an error message when you try to open it now? If so, you may need to delete the copy of this learning module that’s in your Callysto Hub. <a href="https://www.youtube.com/watch?v=9WlxLlwS5t8&amp;feature=youtu.be">Click here for instructions</a>.</p>
@@ -124,13 +124,13 @@ date: 2024-03-31
 {{< /spoiler >}}
 
 
-{{< spoiler text="6. Help students get started" >}}
+{{< spoiler text="Help students get started" >}}
 <p>Help them get started with the learning module(s).</p>
 <p>Explain the main parts of a Callysto learning module: markdown cells, code cells, the “run” function, etc. Please refer to the section above, “Get familiar with Callysto.”</p>
 {{< /spoiler >}}
 
 
-{{< spoiler text="7. Get students to send a module to you" >}}
+{{< spoiler text="Get students to send a module to you" >}}
 <p>The simplest way for students to send you their completed modules is to download it in Jupyter notebook file format (.ipynb). From there, they can email or upload it to a storage area of your choosing.</p>
 
 <p><strong><span style="color: #800080;">Video overview</span></strong></p>
@@ -149,7 +149,7 @@ date: 2024-03-31
 {{< /spoiler >}}
 
 
-{{< spoiler text="8. Upload the Callysto notebooks you receive" >}}
+{{< spoiler text="Upload the Callysto notebooks you receive" >}}
 <p>When students send you their Callysto notebooks (i.e. as .ipynb files) here’s how you can upload to your Callysto Hub.</p>
 <p><span style="color: #800080;"><strong>Video overview<br>
 </strong>(It's just over 2 minutes.)</span></p>
@@ -166,7 +166,7 @@ date: 2024-03-31
 <li>Your new folder will appear under the “Files” tab as “Untitled folder.”</li>
 </ol>
 
-<p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="Click-_New._-Click-_Folder._-300x80.png" width="800" height="550"></p>
+<p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="Click-_New._-Click-_Folder._-1024x272.png" width="800" height="550"></p>
 <p><img loading="lazy" decoding="async" class="size-medium aligncenter" src="Your-new-folder-will-appear-under-the-_Files_-tab-as-_Untitled-Folder._-1024x551.png" width="800" height="550"></p>
 
 <h4>D. Rename your folder</h4>
@@ -191,7 +191,7 @@ date: 2024-03-31
 
 {{< /spoiler >}}
 
-<h2 style="text-align: center;">Get a Callysto Expert to Teach Your Students</h2>
+<h2 style="text-align: left;">Get a Callysto Expert to Teach Your Students</h2>
 <p>We’re here to help! If you’d like us to lead a session for your students, email us at <a href="mailto:contact@callysto.ca">contact@callysto.ca</a></p>
 <p>We’ve held numerous data science sessions (in-person and online) for Grades 5-12 students across Canada. Our most popular events are our virtual hackathons, such as our <a href="https://www.callysto.ca/2020/09/10/students-seek-a-sustainable-life-on-mars-as-part-of-callysto-hackathon/">“Sustaining Life On Mars” hackathon.</a></p>
 <h3>What you need to know about Callysto’s classroom sessions</h3>
