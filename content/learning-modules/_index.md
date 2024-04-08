@@ -21,7 +21,7 @@ Type the subject name or topic of interest in the search box below.
 
 <script src="table.js"></script>
 
-<input type="text" id="myInput" style="background:#6F4A9E;color:white;border-radius:10px;padding:15px;width:60vw;" onkeyup="myFunction()" placeholder="Search by subject..">
+<input type="text" id="myInput" style="background:#6F4A9E;color:white;border-radius:10px;padding:15px;width:50vw;" onkeyup="myFunction()" placeholder="Search by subject..">
 
 <table  id="myTable" class="table table-bordered table-hover table-condensed">
 

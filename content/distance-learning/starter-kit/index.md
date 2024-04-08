@@ -2,6 +2,8 @@
 title: 'Using Callysto: Teacher Starter Kit'
 date: 2024-03-31
 ---
+<!--  Videos are here: https://drive.google.com/drive/folders/1b26yufAFwGjFycY4wFGgRS4NJBoZ_pl9 -->
+
 <p>The purpose of this starter kit is to get you comfortable with using Callysto’s free, online curriculum-tied modules in your classroom.</p>
 <h4>What do you and your students need to use Callysto?</h4>
 <ul>
