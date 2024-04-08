@@ -24,7 +24,7 @@ cascade:
     commentable: true
     show_related: true
     share: true
-    # Just use Breadcrumb for navigation on dataviz post pages?
+    # Just use Breadcrumb for navigation on data-visualization post pages?
     show_breadcrumb: false
     header:
       navbar:
@@ -33,7 +33,7 @@ cascade:
   - _target:
       path: /computational-thinking-tests/*
       kind: section
-    # Change url to /dataviz/
+    # Change url to /data-visualization/
     url: /computational-thinking-tests/
     # Set the listing view
     view: date-title-summary
@@ -44,7 +44,7 @@ cascade:
 cascade:
   # Data viz options
   - _target:
-      path: /dataviz/**
+      path: /data-visualization/**
       kind: page
     pager: true
     editable: true
@@ -54,17 +54,17 @@ cascade:
     commentable: true
     show_related: true
     share: true
-    # Just use Breadcrumb for navigation on dataviz post pages?
+    # Just use Breadcrumb for navigation on data-visualization post pages?
     show_breadcrumb: false
     header:
       navbar:
         enable: true
   # Data viz section options
   - _target:
-      path: /dataviz/*
+      path: /data-visualization/*
       kind: section
-    # Change url to /dataviz/
-    url: /dataviz/
+    # Change url to /data-visualization/
+    url: /data-visualization/
     # Set the listing view
     view: date-title-summary
 
@@ -75,7 +75,7 @@ cascade:
 cascade:
   # Lesson plan options
   - _target:
-      path: /lessonplan/**
+      path: /lesson-plans/**
       kind: page
     pager: true
     editable: true
@@ -92,10 +92,10 @@ cascade:
         enable: true
   # lesson plan section options
   - _target:
-      path: /lessonplan/*
+      path: /lesson-plans/*
       kind: section
-    # Change url to /lessonplan/
-    url: /lessonplan/
+    # Change url to /lesson-plans/
+    url: /lesson-plans/
     # Set the listing view
     view: date-title-summary
 
@@ -106,7 +106,7 @@ cascade:
 cascade:
   # Learning modules options
   - _target:
-      path: /learningmodule/**
+      path: /learning-modules/**
       kind: page
     pager: true
     editable: true
@@ -123,10 +123,10 @@ cascade:
         enable: true
   # lesson plan section options
   - _target:
-      path: /learningmodule/*
+      path: /learning-modules/*
       kind: section
     # Change url to /lessonplan/
-    url: /learningmodule/
+    url: /learning-modules/
     # Set the listing view
     view: date-title-summary
 ############################
@@ -155,7 +155,7 @@ cascade:
   - _target:
       path: /distance-learning/*
       kind: section
-    # Change url to /dataviz/
+    # Change url to /data-visualization/
     url: /distance-learning/
     # Set the listing view
     view: date-title-summary
@@ -186,7 +186,7 @@ cascade:
   - _target:
       path: /additional-resources/*
       kind: section
-    # Change url to /dataviz/
+    # Change url to /data-visualization/
     url: /additional-resources/
     # Set the listing view
     view: date-title-summary
@@ -274,9 +274,9 @@ footnotereturnlinkcontents: <sup>^</sup>ß
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   computational-thinking-tests: '/computational-thinking-tests/:slug/'
-  learningmodule: '/learningmodule/:slug/'
-  lessonplans: '/lessonplan/:slug/'
-  dataviz: '/dataviz/:slug/'
+  learning-modules: '/learning-modules/:slug/'
+  lesson-plans: '/lesson-plans/:slug/'
+  data-visualization: '/data-visualization/:slug/'
   distance-learning: '/distance-learning/:slug'
   blog: '/blog/:slug/'
   additional-resources: '/additional-resources/:slug/'
