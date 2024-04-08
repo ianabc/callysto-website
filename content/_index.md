@@ -102,7 +102,7 @@ sections:
           image: social-media.png
           button:
             text: Browse learning modules
-            url: https://callysto.github.io/website/learningmodule/
+            url: https://callysto.github.io/website/learning-modules/
       # LESSON PLANS
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
@@ -115,7 +115,7 @@ sections:
           image: CALM.png
           button:
             text: Browse lesson plans
-            url: https://callysto.github.io/website/lessonplan/
+            url: https://callysto.github.io/website/lesson-plans/
       # DATA VISUALIZATIONS
         - title: Data visualizations
           text: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
@@ -129,7 +129,7 @@ sections:
           button:
             text: Check out data viz
             #url: ../assets/media/example.html
-            url: https://callysto.github.io/website/dataviz/
+            url: https://callysto.github.io/website/data-visualization/
             #url: govt_funding.html
       # STARTER KIT & ONLINE COURSES
         - title: Starter kit and online courses
