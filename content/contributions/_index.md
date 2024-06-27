@@ -5,6 +5,8 @@ We would like to express our sincere gratitude to everyone who contributed to th
 
 Special thanks go to the non-profit organizations <a href="https://www.cybera.ca">Cybera</a> and the <a href="https://www.pims.math.ca/">Pacific Institute for the Mathematical Sciences (PIMS)</a> for their dedicated facilitation of the program since its launch in 2017 until 2024. Additionally, we are grateful for the generous funding from the national CanCode program, which has been essential to the success and impact of Callysto over the years.
 
+<h2>Current</h2>
+
 <b>David Hay</b><br>
 Director, Callysto Education Initiative
 
